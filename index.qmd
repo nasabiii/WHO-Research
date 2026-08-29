@@ -1,0 +1,68 @@
+::: {.hero}
+
+<span class="eyebrow">WHO RESEARCH</span>
+
+# xxx punch line
+
+We are a multidisciplinary research team focused on producing rigorous, meaningful research with real-world impact.
+
+[View Publications](publications.qmd){.hero-button}
+[Meet the Team](team.qmd){.hero-link}
+
+:::
+
+
+## Research Interests
+
+::: {.research-grid}
+
+::: {.research-card}
+### 01
+**Research Area One**
+
+Short description of this research area.
+:::
+
+::: {.research-card}
+### 02
+**Research Area Two**
+
+Short description of this research area.
+:::
+
+::: {.research-card}
+### 03
+**Research Area Three**
+
+Short description of this research area.
+:::
+
+:::
+
+
+## Selected Publications
+
+**2026**  
+Publication title will appear here.  
+*Journal Name*
+
+**2026**  
+Another publication title will appear here.  
+*Journal Name*
+
+[View all publications →](publications.qmd)
+
+
+## Our Team
+
+Meet the researchers behind our work.
+
+[Meet the team →](team.qmd)
+
+
+## Awards & Recognition
+
+**2026** — Award or recognition  
+**2025** — Award or research grant
+
+[View all awards →](awards.qmd)
