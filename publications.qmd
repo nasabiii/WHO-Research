@@ -1,5 +1,322 @@
 ---
-title: "Publications"
+page-layout: full
 ---
 
-# Publications
+::::::: {.publications-page}
+
+
+:::::: {.publication-group}
+
+::::: {.publication-group-heading}
+
+::: {.publication-group-number}
+01
+:::
+
+## Editorial
+
+:::::
+
+
+::::: {.publication-list}
+
+:::: {.publication-item}
+
+::: {.publication-year}
+2026
+:::
+
+### hello world
+
+::: {.publication-authors}
+Anh L. hello world
+:::
+
+::: {.publication-meta}
+Institution - year - ...
+:::
+
+::: {.publication-links}
+[DOI](https://doi.org/) · [PDF](#)
+:::
+
+::::
+
+:::::
+
+::::::
+
+
+
+:::::: {.publication-group}
+
+::::: {.publication-group-heading}
+
+::: {.publication-group-number}
+02
+:::
+
+## Journal Articles
+
+:::::
+
+
+::::: {.publication-list}
+
+
+:::: {.publication-item}
+
+::: {.publication-year}
+2026
+:::
+
+### hello world
+
+::: {.publication-authors}
+authors
+:::
+
+::: {.publication-meta}
+Institution - year - ...
+:::
+
+::: {.publication-links}
+[DOI](https://doi.org/) · [PDF](#)
+:::
+
+::::
+
+
+:::: {.publication-item}
+
+::: {.publication-year}
+2025
+:::
+
+### hello world - name of journal
+
+::: {.publication-authors}
+authors ~~
+:::
+
+::: {.publication-meta}
+Institution - year - ...
+:::
+
+::: {.publication-links}
+[DOI](https://doi.org/) · [PDF](#)
+:::
+
+::::
+
+
+:::: {.publication-item}
+
+::: {.publication-year}
+2025
+:::
+
+### title
+
+::: {.publication-authors}
+authors
+:::
+
+::: {.publication-meta}
+Institution - year - ...
+:::
+
+::: {.publication-links}
+[DOI](https://doi.org/) · [PDF](#)
+:::
+
+::::
+
+
+:::: {.publication-item}
+
+::: {.publication-year}
+2025
+:::
+
+### title
+
+::: {.publication-authors}
+authors
+:::
+
+::: {.publication-meta}
+Institution - year - ...
+:::
+
+::: {.publication-links}
+[DOI](https://doi.org/) · [PDF](#)
+:::
+
+::::
+
+
+:::: {.publication-item}
+
+::: {.publication-year}
+2024
+:::
+
+### title
+
+::: {.publication-authors}
+authors
+:::
+
+::: {.publication-meta}
+Institution - year - ...
+:::
+
+::: {.publication-links}
+[DOI](https://doi.org/) · [PDF](#)
+:::
+
+::::
+
+
+:::: {.publication-item}
+
+::: {.publication-year}
+2024
+:::
+
+### title
+
+::: {.publication-authors}
+authors
+:::
+
+::: {.publication-meta}
+Institution - year - ...
+:::
+
+::: {.publication-links}
+[DOI](https://doi.org/) · [PDF](#)
+:::
+
+::::
+
+
+:::::
+
+::::::
+
+
+
+:::::: {.publication-group}
+
+::::: {.publication-group-heading}
+
+::: {.publication-group-number}
+03
+:::
+
+## Conference Papers
+
+:::::
+
+
+::::: {.publication-list}
+
+
+:::: {.publication-item}
+
+::: {.publication-year}
+2026
+:::
+
+### title
+
+::: {.publication-authors}
+Author One, Author Two, Author Three.
+:::
+
+::: {.publication-meta}
+Conference Name · Location · 2026
+:::
+
+::: {.publication-links}
+[PAPER](#) · [PROJECT](#)
+:::
+
+::::
+
+
+:::: {.publication-item}
+
+::: {.publication-year}
+2025
+:::
+
+### Paper title
+
+::: {.publication-authors}
+Author One, Author Two.
+:::
+
+::: {.publication-meta}
+Conference Name · 2025
+:::
+
+::: {.publication-links}
+[PAPER](#)
+:::
+
+::::
+
+
+:::::
+
+::::::
+
+
+:::::: {.publication-group}
+
+::::: {.publication-group-heading}
+
+::: {.publication-group-number}
+04
+:::
+
+## Other Publications
+
+:::::
+
+
+::::: {.publication-list}
+
+
+:::: {.publication-item}
+
+::: {.publication-year}
+2024
+:::
+
+### title
+
+::: {.publication-authors}
+author
+:::
+
+::: {.publication-meta}
+Institution - year - ...
+:::
+
+::: {.publication-links}
+[VIEW](#)
+:::
+
+::::
+
+
+:::::
+
+::::::
+
+
+:::::::

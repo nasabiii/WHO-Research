@@ -1,5 +1,257 @@
 ---
-title: "Team"
+page-layout: full
 ---
 
-# Our Team
+::::::: {.team-page}
+
+:::::: {.team-group}
+
+::::: {.team-group-heading}
+
+::: {.team-group-number}
+01
+:::
+
+## Prof
+
+:::::
+
+
+::::: {.team-grid}
+
+
+:::: {.member-card}
+
+![](images/teams/team-1.jpg){.member-photo}
+
+### Name One
+
+::: {.member-role}
+Principal Investigator
+:::
+
+::: {.member-affiliation}
+VinUniversity
+:::
+
+::: {.member-contact}
+
+[EMAIL](mailto:name@vinuni.edu.vn)
+
+[GOOGLE SCHOLAR](https://scholar.google.com/)
+
+:::
+
+::::
+
+
+:::::
+
+::::::
+
+
+
+:::::: {.team-group}
+
+::::: {.team-group-heading}
+
+::: {.team-group-number}
+02
+:::
+
+## Collaborators / Professors
+
+:::::
+
+
+::::: {.team-grid}
+
+
+:::: {.member-card}
+
+![](images/teams/team-2.jpg){.member-photo}
+
+### Name Two
+
+::: {.member-role}
+Collaborator · Professor
+:::
+
+::: {.member-affiliation}
+University / Institution
+:::
+
+::: {.member-contact}
+
+[EMAIL](mailto:name@university.edu)
+
+[PROFILE](https://example.com)
+
+:::
+
+::::
+
+
+
+:::: {.member-card}
+
+![](images/teams/team-3.jpg){.member-photo}
+
+### Name Three
+
+::: {.member-role}
+Collaborator · Professor
+:::
+
+::: {.member-affiliation}
+University / Institution
+:::
+
+::: {.member-contact}
+
+[EMAIL](mailto:name@university.edu)
+
+[PROFILE](https://example.com)
+
+:::
+
+::::
+
+
+
+:::: {.member-card}
+
+![](images/teams/team-4.jpg){.member-photo}
+
+### Name Four
+
+::: {.member-role}
+Collaborator · Professor
+:::
+
+::: {.member-affiliation}
+University / Institution
+:::
+
+::: {.member-contact}
+
+[EMAIL](mailto:name@university.edu)
+
+[PROFILE](https://example.com)
+
+:::
+
+::::
+
+
+
+:::: {.member-card}
+
+::: {.member-placeholder}
+NF
+:::
+
+### Name Five
+
+::: {.member-role}
+Collaborator · Professor
+:::
+
+::: {.member-affiliation}
+University / Institution
+:::
+
+::: {.member-contact}
+
+[EMAIL](mailto:name@university.edu)
+
+[PROFILE](https://example.com)
+
+:::
+
+::::
+
+
+:::::
+
+::::::
+
+
+
+:::::: {.team-group}
+
+::::: {.team-group-heading}
+
+::: {.team-group-number}
+03
+:::
+
+## Researchers & Students
+
+:::::
+
+
+::::: {.team-grid}
+
+
+:::: {.member-card}
+
+::: {.member-placeholder}
+RS
+:::
+
+### Researcher Name
+
+::: {.member-role}
+Researcher
+:::
+
+::: {.member-affiliation}
+VinUniversity
+:::
+
+::: {.member-contact}
+
+[EMAIL](mailto:name@vinuni.edu.vn)
+
+[PROFILE](https://example.com)
+
+:::
+
+::::
+
+
+
+:::: {.member-card}
+
+::: {.member-placeholder}
+GS
+:::
+
+### Student Name
+
+::: {.member-role}
+Graduate Student
+:::
+
+::: {.member-affiliation}
+VinUniversity
+:::
+
+::: {.member-contact}
+
+[EMAIL](mailto:name@vinuni.edu.vn)
+
+[PROFILE](https://example.com)
+
+:::
+
+::::
+
+
+:::::
+
+::::::
+
+
+:::::::

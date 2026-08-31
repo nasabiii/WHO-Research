@@ -1,5 +1,82 @@
 ---
-title: "Contact"
+page-layout: full
 ---
 
-# Contact
+::::::: {.contact-page}
+
+
+:::::: {.contact-layout}
+
+
+::::: {.contact-left}
+
+::: {.contact-kicker}
+CONTACT / WHO RESEARCH
+:::
+
+# Get in touch.
+
+::: {.contact-intro}
+For research collaborations, academic enquiries, student opportunities, or other questions, feel free to reach out.
+:::
+
+:::::
+
+
+::::: {.contact-right}
+
+
+:::: {.contact-item}
+
+::: {.contact-label}
+GENERAL ENQUIRIES
+:::
+
+[25anh.ln2@vinuni.edu.vn (for example)](mailto:research@vinuni.edu.vn){.contact-main-link}
+
+::::
+
+
+:::: {.contact-item}
+
+::: {.contact-label}
+INSTITUTION
+:::
+
+VinUniversity, Vinhomes Ocean Park 1
+
+Hanoi, Vietnam
+
+::::
+
+
+:::: {.contact-item}
+
+::: {.contact-label}
+COLLABORATION
+:::
+
+We welcome conversations with researchers, institutions, and students interested in collaborative work.
+
+::::
+
+
+:::: {.contact-item}
+
+::: {.contact-label}
+LINKS
+:::
+
+[Google Scholar →](#){.contact-small-link}
+
+[GitHub →](https://nasabiii.github.io/WHO-Research/){.contact-small-link}
+
+::::
+
+
+:::::
+
+::::::
+
+
+::::::: 

@@ -1,68 +1,354 @@
-::: {.hero}
+---
+page-layout: full
+---
 
-<span class="eyebrow">WHO RESEARCH</span>
+::::::: {.home-page}
 
-# xxx punch line
 
-We are a multidisciplinary research team focused on producing rigorous, meaningful research with real-world impact.
+:::::: {.hero-shell}
 
-[View Publications](publications.qmd){.hero-button}
-[Meet the Team](team.qmd){.hero-link}
+::::: {.hero-copy}
 
+:::: {.eyebrow}
+WHO RESEARCH / VINUNIVERSITY
+::::
+
+# research team from abc123
+
+:::: {.hero-text}
+We are a multidisciplinary research team ...... description .....
+::::
+
+:::: {.hero-actions}
+
+[View Publications](publications.qmd){.btn-primary}
+
+[Meet the Team](team.qmd){.btn-secondary}
+
+::::
+
+
+:::: {.hero-meta}
+
+::: {.meta-block}
+[FOCUS]{.meta-label}  
+[Global Health]{.meta-value}
 :::
 
+::: {.meta-block}
+[APPROACH]{.meta-label}  
+[Interdisciplinary]{.meta-value}
+:::
+
+::: {.meta-block}
+[BASE]{.meta-label}  
+[VinUniversity]{.meta-value}
+:::
+
+::::
+
+:::::
+
+
+::::: {.hero-visual-wrap}
+
+:::: {.hero-visual}
+
+::: {.visual-noise}
+:::
+
+::: {.capsule .cap-1}
+:::
+
+::: {.capsule .cap-2}
+:::
+
+::: {.capsule .cap-3}
+:::
+
+::: {.capsule .cap-4}
+:::
+
+::: {.floating-chip .chip-1}
+Health Systems
+:::
+
+::: {.floating-chip .chip-2}
+Data & Innovation
+:::
+
+::: {.floating-chip .chip-3}
+Global Health
+:::
+
+::::
+
+:::::
+
+::::::
+
+
+
+:::::: {.home-section .reveal}
+
+::::: {.section-heading}
+
+:::: {.section-kicker}
+01
+::::
 
 ## Research Interests
 
-::: {.research-grid}
+:::::
 
-::: {.research-card}
-### 01
-**Research Area One**
 
-Short description of this research area.
+::::: {.research-grid}
+
+:::: {.research-card}
+
+::: {.card-index}
+01
 :::
 
-::: {.research-card}
-### 02
-**Research Area Two**
+### Global Health
 
-Short description of this research area.
+Research addressing major population health challenges through evidence, implementation, and policy-oriented inquiry.
+
+::::
+
+
+:::: {.research-card}
+
+::: {.card-index}
+02
 :::
 
-::: {.research-card}
-### 03
-**Research Area Three**
+### Health Systems
 
-Short description of this research area.
+Work focused on quality of care, access, delivery models, and strengthening healthcare institutions and services.
+
+::::
+
+
+:::: {.research-card}
+
+::: {.card-index}
+03
 :::
 
-:::
+### Data & Innovation
+
+Interdisciplinary approaches combining analytics, digital tools, and translational research for real-world impact.
+
+::::
+
+:::::
+
+::::::
 
 
-## Selected Publications
 
-**2026**  
-Publication title will appear here.  
-*Journal Name*
+:::::: {.home-section .team-feature}
 
-**2026**  
-Another publication title will appear here.  
-*Journal Name*
+::::: {.section-heading}
 
-[View all publications →](publications.qmd)
-
+:::: {.section-kicker}
+02
+::::
 
 ## Our Team
 
-Meet the researchers behind our work.
+:::::
 
-[Meet the team →](team.qmd)
 
+::::: {.team-showcase}
+
+
+:::: {.team-profile-area}
+
+::: {.team-person}
+
+![](images/teams/team-1.jpg){.team-photo}
+
+[NAME ONE]{.team-person-name}  
+[Researcher]{.team-person-role}
+
+:::
+
+
+::: {.team-person}
+
+![](images/teams/team-2.jpg){.team-photo}
+
+[NAME TWO]{.team-person-name}  
+[Researcher]{.team-person-role}
+
+:::
+
+
+::: {.team-person}
+
+![](images/teams/team-3.jpg){.team-photo}
+
+[NAME THREE]{.team-person-name}  
+[Researcher]{.team-person-role}
+
+:::
+
+
+::: {.team-person}
+
+![](images/teams/team-4.jpg){.team-photo}
+
+[NAME FOUR]{.team-person-name}  
+[Researcher]{.team-person-role}
+
+:::
+
+::::
+
+
+:::: {.team-cta-area}
+
+[↗](team.qmd){.team-orbit}
+
+::::
+
+
+:::::
+
+::::::
+
+
+
+:::::: {.home-section .reveal}
+
+::::: {.section-heading}
+
+:::: {.section-kicker}
+03
+::::
+
+## Publications
+
+:::::
+
+
+::::: {.simple-list}
+
+:::: {.list-row}
+
+::: {.list-year}
+2026
+:::
+
+::: {.list-body}
+
+#### Publication title
+
+Journal Name
+
+:::
+
+::::
+
+
+:::: {.list-row}
+
+::: {.list-year}
+2025
+:::
+
+::: {.list-body}
+
+#### Publication title
+
+Journal Name
+
+:::
+
+::::
+
+
+:::: {.list-row}
+
+::: {.list-year}
+2025
+:::
+
+::: {.list-body}
+
+#### Publication title
+
+Journal Name
+
+:::
+
+::::
+
+:::::
+
+
+[View all publications →](publications.qmd){.text-link}
+
+::::::
+
+
+
+:::::: {.home-section .reveal}
+
+::::: {.section-heading}
+
+:::: {.section-kicker}
+04
+::::
 
 ## Awards & Recognition
 
-**2026** — Award or recognition  
-**2025** — Award or research grant
+:::::
 
-[View all awards →](awards.qmd)
+
+::::: {.simple-list}
+
+:::: {.list-row}
+
+::: {.list-year}
+2026
+:::
+
+::: {.list-body}
+
+#### Award
+
+Institution
+
+:::
+
+::::
+
+
+:::: {.list-row}
+
+::: {.list-year}
+2025
+:::
+
+::: {.list-body}
+
+#### Grant
+
+Institution
+
+:::
+
+::::
+
+:::::
+
+
+[View all awards →](awards.qmd){.text-link}
+
+::::::
+
+
+:::::::

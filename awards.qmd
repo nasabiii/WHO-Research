@@ -1,5 +1,239 @@
 ---
-title: "Awards"
+page-layout: full
 ---
 
-# Awards
+:::::::: {.awards-page}
+
+
+::::::: {.awards-featured}
+
+:::::: {.award-featured-copy}
+
+::: {.award-eyebrow}
+FEATURED RECOGNITION · 2025
+:::
+
+## Conference Award
+
+NAME
+
+::: {.award-featured-link}
+[VIEW RECOGNITION →](#)
+:::
+
+::::::
+
+
+:::::: {.award-featured-mark}
+
+::: {.award-featured-number}
+01
+:::
+
+::: {.award-featured-word}
+AWARD
+:::
+
+::::::
+
+:::::::
+
+
+
+::::::: {.awards-section}
+
+:::::: {.awards-section-heading}
+
+::: {.awards-section-number}
+02
+:::
+
+## Press & Recognition
+
+::::::
+
+
+:::::: {.awards-grid}
+
+
+::::: {.award-card}
+
+::: {.award-card-label}
+NAME
+:::
+
+::: {.award-big-number}
+02
+:::
+
+### NAME
+
+DETAILS
+
+::: {.award-meta}
+2024 · INSTITUTION
+:::
+
+:::::
+
+
+
+::::: {.award-card}
+
+::: {.award-card-label}
+JOURNAL ARTICLES
+:::
+
+::: {.award-big-number}
+03
+:::
+
+### Peer-reviewed journal articles published or accepted
+
+TOP 1
+
+::: {.award-meta}
+RESEARCH OUTPUT
+:::
+
+:::::
+
+
+
+::::: {.award-card}
+
+::: {.award-card-label}
+NAME
+:::
+
+::: {.award-big-number}
+04
+:::
+
+### NAME
+
+DETAILS
+
+::: {.award-meta}
+PEER-REVIEWED CONFERENCES ETC
+:::
+
+:::::
+
+
+
+::::: {.award-card}
+
+::: {.award-card-label}
+NAME
+:::
+
+::: {.award-big-number}
+05
+:::
+
+### TITLE
+
+Presented at leading conferences including ...
+
+::: {.award-meta}
+INTERNATIONAL PRESENTATIONS
+:::
+
+:::::
+
+
+
+::::: {.award-card}
+
+::: {.award-card-label}
+LABEL
+:::
+
+::: {.award-big-number}
+06
+:::
+
+### Invited talks delivered
+
+Delivered regionally and internationally across universities, research institutions, and conferences.
+
+::: {.award-meta}
+ACADEMIC ENGAGEMENT
+:::
+
+:::::
+
+
+
+::::: {.award-card}
+
+::: {.award-card-label}
+LABEL
+:::
+
+::: {.award-big-number}
+07
+:::
+
+### Journal articles submitted or in progress
+
+NAME
+
+::: {.award-meta}
+ONGOING RESEARCH
+:::
+
+:::::
+
+
+
+::::: {.award-card}
+
+::: {.award-card-label}
+BOOK CHAPTER
+:::
+
+::: {.award-big-number}
+08
+:::
+
+### Book chapter published
+
+NAME
+
+::: {.award-meta}
+YEAR - INSTITUTION
+:::
+
+:::::
+
+
+
+::::: {.award-card .award-card-accent}
+
+::: {.award-card-label}
+LABEL
+:::
+
+::: {.award-big-number}
+09
+:::
+
+### NAME
+
+DETAILS
+
+::: {.award-meta}
+WHO RESEARCH
+:::
+
+:::::
+
+
+::::::
+
+:::::::
+
+
+::::::::
